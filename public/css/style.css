@@ -1,0 +1,42 @@
+@import url('../../node_modules/bootstrap/dist/css/bootstrap.min.css');
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@300;400;500;700;800;900&family=Montserrat:wght@300;400;500;600;700;800;900&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css');
+
+* {
+    transition: .5s;
+}
+
+.navbar-brand {
+    font-family: 'M PLUS Rounded 1c', sans-serif!important;
+}
+.navbar-brand:hover .fa-code {
+    color: #fff!important;
+}
+
+.navbar-brand .fa-code {
+    color: rgba(255, 255, 255, 0.5)!important;
+}
+
+.skills_section {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.fa-brands {
+    font-size: 48px!important;
+}
+
+.fa-telegram:hover {
+    color: #0096e0!important;
+}
+
+.fa-discord:hover {
+    color: #6d88e9!important;
+}
+
+.brands:hover {
+    background: #333!important;
+    color: #fff!important;
+}
+.brands:hover .fa-square-github {
+    color: #fff!important;
+}
