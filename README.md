@@ -1,2 +1,2 @@
-# devnkys.github.io
+# devnyks.github.io
 My website
